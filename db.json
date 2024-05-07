@@ -5,21 +5,21 @@
     "minLG": 2,
     "maxLG": 6,
     "czas": 120,
-    "trudnosc": 2,
+    "trudnosc": 2
   },
   {
     "tytul": "Osadnicy z Catanu",
     "minLG": 2,
     "maxLG": 4,
     "czas": 150,
-    "trudnosc": 3,
+    "trudnosc": 3
   },
   {
     "tytul": "Uno",
     "minLG": 2,
     "maxLG": 99,
     "czas": 30,
-    "trudnosc": 1,
+    "trudnosc": 1
   }
 ]
 }
