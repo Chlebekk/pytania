@@ -1,25 +1,25 @@
 {
-  "pytania":[
+  "planszowki":[
   {
-    "tresc": "Stolicą Polski było",
-    "odpa": "Wilkowyje",
-    "odpb": "Gniezno",
-    "odpc": "Kowno",
-    "poprawna": 1
+    "tytul": "Monopoly",
+    "minLG": 2,
+    "maxLG": 6,
+    "czas": 120,
+    "trudnosc": 2,
   },
   {
-    "tresc": "Prezydentem Polski był",
-    "odpa": "Jarosław Kaczyński",
-    "odpb": "Lecha Wałęsa",
-    "odpc": "Paweł Kozioł",
-    "poprawna": 1
+    "tytul": "Osadnicy z Catanu",
+    "minLG": 2,
+    "maxLG": 4,
+    "czas": 150,
+    "trudnosc": 3,
   },
   {
-    "tresc": "Ostatnie wybory to wybory",
-    "odpa": "parlamentarne",
-    "odpb": "prezydenckie",
-    "odpc": "samorządowe",
-    "poprawna": 2
+    "tytul": "Uno",
+    "minLG": 2,
+    "maxLG": 99,
+    "czas": 30,
+    "trudnosc": 1,
   }
 ]
 }
